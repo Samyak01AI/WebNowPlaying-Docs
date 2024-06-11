@@ -8,6 +8,8 @@ It's likely the browser just needs some time to connect, when you continiously r
 
 Start it.
 
+If you're using Rainmeter, make sure you have a skin using the WebNowPlaying plugin loaded.
+
 **You're using an adblocker**
 
 Some adblockers block requests to localhost, which prevents the extension to connect to your adapters.  
